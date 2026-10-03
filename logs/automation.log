@@ -1,0 +1,154 @@
+12:38:13.297 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:38:14.850 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:38:28.422 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+12:39:48.828 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:39:50.414 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:39:55.461 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+12:58:11.678 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:58:13.825 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:58:17.877 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:01:09.236 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:01:10.960 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:01:14.893 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:07:49.841 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:07:58.642 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:08:08.256 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:08:30.001 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:08:31.136 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:08:34.178 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:10:42.668 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:10:43.845 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:10:46.018 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:11:13.667 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:11:14.874 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:11:18.045 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:16:25.222 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:16:27.683 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:16:33.909 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:18:16.124 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:18:17.854 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:18:22.279 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:18:34.024 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:18:35.869 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:18:38.122 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:35:10.823 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:35:12.946 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:35:18.764 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+13:37:18.581 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+13:37:23.049 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+13:37:28.385 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+17:32:37.698 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+17:32:39.746 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+17:32:43.940 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+17:32:53.270 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:14)oggger - ********TC02 execution started******
+17:35:39.471 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:14)oggger - ********TC02 execution started******
+17:38:06.591 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:14)oggger - ********TC02 execution started******
+17:41:15.586 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:14)oggger - ********TC02 execution started******
+13:20:13.597 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:16)oggger - ********TC02 execution started******
+13:20:18.781 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:38)oggger - *******Finished TC002 loginTest
+13:23:08.840 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:16)oggger - ********TC02 execution started******
+13:23:12.462 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:38)oggger - *******Finished TC002 loginTest
+14:40:23.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:40:23.295 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:40:23.299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:42:31.185 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:42:31.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:42:31.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:53:44.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:53:44.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:53:44.953 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:54:49.473 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:16)oggger - ********TC02 execution started******
+14:54:52.276 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:38)oggger - *******Finished TC002 loginTest
+14:55:29.359 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:16)oggger - ********TC02 execution started******
+14:55:31.502 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:38)oggger - *******Finished TC002 loginTest
+14:56:27.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:56:27.595 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:56:27.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:59:32.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:59:32.224 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:59:32.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+15:07:20.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:20.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:07:20.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+15:07:22.149 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+15:07:34.609 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+15:07:34.632 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+15:07:46.940 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+15:07:46.955 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+15:07:49.055 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+15:07:49.069 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+15:07:59.797 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:02:31.728 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+16:02:32.970 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+16:02:35.995 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+16:02:43.984 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:16)oggger - ********TC02 execution started******
+16:02:47.954 [main] INFO  testCases.TC002_LoginPage.verify_login(TC002_LoginPage.java:38)oggger - *******Finished TC002 loginTest
+16:04:54.250 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:04:54.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:04:54.286 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+16:06:34.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:06:34.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:06:34.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+16:08:23.345 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:23.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:23.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+16:08:25.894 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:08:40.890 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:08:40.906 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:08:53.826 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:08:53.843 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:08:56.491 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:08:56.503 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:09:08.114 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:10:32.219 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+16:10:33.512 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+16:10:36.218 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+16:10:43.065 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:10:43.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:10:43.121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+16:10:45.982 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:10:58.469 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:10:58.477 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:11:11.444 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:11:11.449 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:11:14.921 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+16:11:14.951 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+16:11:26.932 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+18:43:26.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:43:26.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:43:26.913 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+18:47:02.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:47:02.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:47:02.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+18:48:34.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:48:34.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:48:34.237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+18:49:18.253 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:49:18.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:49:18.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:52:16.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:16.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:52:16.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:52:43.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:43.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:52:43.106 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:05:20.930 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:05:21.918 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:05:25.068 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+12:06:21.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:06:21.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:06:21.150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:06:24.350 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+12:06:36.968 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:68)oggger - *******Finished TC003_LoginDDT*************
+12:06:36.983 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+12:06:37.251 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+12:06:37.288 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:23)oggger - *******Starting TC003_LoginDDT*************
+12:07:21.558 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:07:22.806 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:07:25.972 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+12:34:53.797 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:34:54.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:34:57.498 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
+12:40:37.246 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:21)oggger - ***********Account registartaion started*****
+12:40:37.977 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:26)oggger - *****user registration started****
+12:40:41.202 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registartion(TC001_AccountRegistrationTest.java:39)oggger - *******validating expected message******
